@@ -1,4 +1,4 @@
-## Hi I'm Timothy!
+## Hi, I'm Timothy!
 
 **CS @ University of Washington**
 <br>
