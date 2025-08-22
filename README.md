@@ -1,7 +1,7 @@
 ## Hi I'm Timothy!
 
-###
-CS @ University of Washington<br>
+## CS @ University of Washington<br>
+<br>
 I create projects with a focus on practicality and real-world impact, designing solutions to solve tangible problems.
 Every challenge matters; if my software can create a positive impact, it’s worth building.
 
