@@ -2,7 +2,7 @@
 
 **CS @ University of Washington** <br>
 <br>
-I create projects with a focus on practicality and real-world impact, designing solutions to solve tangible problems.
+A curious student creating projects with a focus on practicality and real-world impact.
 Every challenge matters; if my work can create a positive impact, it’s worth building. <br>
 <br>
 📸 On the side, I enjoy street photography. Check out my [portfolio](https://timmh7.github.io/timothyh-photo-portfolio/)!
